@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.guid-based-reference",
+  "displayName": "Guid Based Reference",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "A component to give a Globaly Unique IDentifier (GUID) to a Game Object. This GUID can then be used to reference an object even if it is another Scene, not loaded yet, or otherwise not easy to directly reference.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xroft666/guid-based-reference.git",
+    "revision": "523766355be7477a585af2ee6489d4e96e030c9f"
+  }
+}
